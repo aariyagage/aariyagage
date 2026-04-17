@@ -1,16 +1,12 @@
-## Hi there 👋
+## hiii, i'm aariya!👩🏻‍💻                                                                                                                        
+                                                                                                                                         
+  ai engineer | content creator | cofounder 
+  who builds software for the way people actually behave. i ship AI tools and i understand     
+  attention, not abstractly, but because 26k+ people gave me theirs.                                    
+                                                                                                                                           
+                                                                                                                                           
+  ### right now                                                      
 
-<!--
-**aariyagage/aariyagage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - cs + business at asu, graduating may 2026
+  - arizona, open to relocate
+  - available for ai engineer, full stack, and frontend roles  
